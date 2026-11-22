@@ -1,0 +1,22 @@
+# Written by Claude Code each time it loads the mod
+.claude-plugin/types/
+.mcpb-cache/
+
+# Dependencies and build output, should any appear
+node_modules/
+dist/
+
+# Logs, secrets and local settings
+*.log
+.env
+.env.*
+*.local.json
+
+# Editor and OS clutter
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
