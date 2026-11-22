@@ -1,0 +1,11 @@
+{
+  "name": "claude-hyperbar",
+  "owner": { "name": "sharifishti" },
+  "plugins": [
+    {
+      "name": "hyperbar",
+      "source": "./",
+      "description": "A glowing progress pill above the Claude Code prompt that tracks each turn"
+    }
+  ]
+}

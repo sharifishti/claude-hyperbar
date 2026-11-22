@@ -1,0 +1,8 @@
+{
+  "name": "hyperbar",
+  "version": "0.2.0",
+  "description": "A glowing progress pill above the prompt that tracks Claude's turn: a ⚡ thumb counting tool calls, a time estimate, and a green burst when done",
+  "author": { "name": "sharifishti" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
